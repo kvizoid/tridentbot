@@ -1,0 +1,114 @@
+{
+  "0001": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514255091497046157,
+    "message_id": 1514255093011185734,
+    "nick": "Qviz_",
+    "location": "1876 742",
+    "comment": "оставить у двери",
+    "cart": {
+      "enchanted_book": 1,
+      "diamond": 1
+    },
+    "status": "completed",
+    "created_at": "2026-06-10T13:09:04.697101",
+    "worker_id": 1228592936330068028
+  },
+  "0002": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514256627635589120,
+    "message_id": 1514256628940013840,
+    "nick": "123",
+    "location": "123",
+    "comment": "123",
+    "cart": {
+      "elytra": 1
+    },
+    "status": "new",
+    "created_at": "2026-06-10T13:15:10.874069"
+  },
+  "0003": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514257636420227194,
+    "message_id": 1514257638227972170,
+    "nick": "у",
+    "location": "у",
+    "comment": "у",
+    "cart": {
+      "shulker": 1
+    },
+    "status": "declined",
+    "created_at": "2026-06-10T13:19:11.613845",
+    "worker_id": 1266488554125787338
+  },
+  "0004": {
+    "user_id": 1266488554125787338,
+    "channel_id": 1514258350748078133,
+    "message_id": 1514258351905701889,
+    "nick": "хуисис",
+    "location": "пэнис",
+    "comment": "нет иди нахуй(обязательно)",
+    "cart": {
+      "shulker": 1,
+      "diamond": 1
+    },
+    "status": "completed",
+    "created_at": "2026-06-10T13:22:01.865759",
+    "worker_id": 1228592936330068028
+  },
+  "0005": {
+    "user_id": 1266488554125787338,
+    "channel_id": 1514258932439322704,
+    "message_id": 1514258935287382097,
+    "nick": "покупаем",
+    "location": "покупаем",
+    "comment": "покупаем",
+    "cart": {
+      "dildo": 1
+    },
+    "status": "declined",
+    "created_at": "2026-06-10T13:24:20.828702"
+  },
+  "0006": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514276532535820448,
+    "message_id": 1514276533391589497,
+    "nick": "kvz",
+    "location": "8462 -50 7631",
+    "comment": "ары в сундуке положить туда же где и ары",
+    "cart": {
+      "dom": 72
+    },
+    "status": "completed",
+    "created_at": "2026-06-10T14:34:16.611101",
+    "worker_id": 1228592936330068028
+  },
+  "0007": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514283799066710116,
+    "message_id": 1514283800585306162,
+    "nick": "Qcold",
+    "location": "spawn",
+    "comment": "в бочку",
+    "cart": {
+      "black_concrete": 1.25
+    },
+    "status": "completed",
+    "created_at": "2026-06-10T15:03:09.221538",
+    "worker_id": 1228592936330068028
+  },
+  "0008": {
+    "user_id": 1228592936330068028,
+    "channel_id": 1514302992415981599,
+    "message_id": 1514302993917411419,
+    "nick": "drnight_",
+    "location": "769 132 1283",
+    "comment": "ары лежат в сундуке положить туда где и ары(ары забрать как оплату)",
+    "cart": {
+      "black_concrete": 2.0
+    },
+    "status": "declined",
+    "created_at": "2026-06-10T16:19:25.326623",
+    "worker_id": 1228592936330068028
+  }
+}

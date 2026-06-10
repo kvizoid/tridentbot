@@ -1,0 +1,11 @@
+{
+  "shop_channel_id": 1514217000514097244,
+  "checkout_channel_id": 1514230566298320996,
+  "orders_category_id": 1514252921733386331,
+  "delivery_role_id": 1514253393168826388,
+  "admin_role_id": 1514242815863951513,
+  "currency_name": "ар",
+  "shop_title": "🌳 TRIDENT SHOP 🌳",
+  "shop_description": "Отличный магазин с низкими ценами!",
+  "order_prefix": "заказ"
+}
